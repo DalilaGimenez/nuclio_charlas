@@ -40,16 +40,18 @@ Temario día 1:
 
 -> Hands on (1 hora 40 min):
 1. Presentación del dataset (10 min)
-   Hacemos una breve introducción al [dataset de animes](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database/data) que vamos a utilizar para construir nuestro recommender.   
+   Hacemos una breve introducción al [dataset de animes](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database/data) que vamos a utilizar para construir nuestrr   recommender. Es un dataset muy interesante que tiene los reviews que han dejado diferentes usuarios de diferentes tipologías de animes japoneses y nosotros lo vamos a utilizar par contestar a la siguiente pregunta: dado un usuario cualquiera, ¿que anime le podemos recomendar dado su historial de reviews?
 
 1. Pandas deep dive (90 min)
+   Deep dive de pandas. En una hora y media damos todas las herramientas necesarias para manipular datasets con Python de manera rápida y sencilla.
 
 -> Wrap up (10 min)
+   Resumen y conclusiones del primer día del workshop.
 
 -> Next steps (5 min)
+   Hablamos del planteamiento de la sesión del próximo día.
 
 -> Ruegos y preguntas (15 min)
-
 
 Temario dia 2:
 
