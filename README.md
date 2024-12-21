@@ -9,7 +9,7 @@ Principios básicos del workshop:
 1. Hands on
 1. Pandas y recommenders
 
-Buscamos con este taller acercar al mundo del Data Science y la programación a las personas que no tienen ***experiencia pero mucha curiosidad y ganas de aprender***.
+Buscamos con este taller acercar al mundo del Data Science y la programación a las personas que no tienen ***experiencia pero tienen mucha curiosidad y ganas de aprender***.
 
 El taller va a ser introductorio pero a la vez útil y práctico. Las personas que van a participar en el taller se llevarán consigo herramientas que podrán utilizar en su día a día (por ejemplo manipulación de datos al estilo **Excel** pero con Python).
 
