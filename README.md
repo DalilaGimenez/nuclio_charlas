@@ -2,6 +2,8 @@
 
 El taller va a durar los días 14 - 15 enero 2025 (18.30 - 21.30).
 
+El dataset utilizado en este workshop se puede descargar en el siguiente enlace: https://www.kaggle.com/datasets/npscul/nuclio-recommenders-dataset
+
 Principios básicos del workshop:
 
 1. Introductorio
