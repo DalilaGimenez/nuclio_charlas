@@ -4,6 +4,26 @@ El taller va a durar los días 14 - 15 enero 2025 (18.30 - 21.30).
 
 El dataset utilizado en este workshop se puede descargar en el siguiente enlace: https://drive.google.com/drive/folders/1VfQ7VHprgku8THsBpJqTLIHyaXFQQA8n
 
+
+****************************************************************************************************************************
+NOTA (ACTUALIZADO 14-ENERO-2025):
+
+Los notebooks de PANDAS.ipynb y CBRS.ipynb están disponibles en Kaggle de manera gratuita en los siguientes enlaces:
+
+https://www.kaggle.com/code/npscul/pandas-nuclio-charlas
+https://www.kaggle.com/code/npscul/cbrs-nuclio-charlas
+
+Para todas aquellas personas que son "nuevas" y no conocen como crear un entorno virtual o instalar Python, es recomendable usar los dos enlaces de antes.
+
+Instrucciones:
+1. Se registran en www.kaggle.com
+2. Siguen cualquiera de los dos enlaces
+3. Le dan copy & edit notebook
+4. Empiezan a trabajar directamente desde Kaggle con los notebooks.
+
+Los notebooks ya están vinculados con datasets y no se debe hacer nada más de lo que se ha comentado anteriormente.
+***************************************************************************************************************************
+
 Principios básicos del workshop:
 
 1. Introductorio
