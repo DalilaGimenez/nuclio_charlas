@@ -11,6 +11,7 @@ NOTA (ACTUALIZADO 14-ENERO-2025):
 Los notebooks de PANDAS.ipynb y CBRS.ipynb están disponibles en Kaggle de manera gratuita en los siguientes enlaces:
 
 https://www.kaggle.com/code/npscul/pandas-nuclio-charlas
+
 https://www.kaggle.com/code/npscul/cbrs-nuclio-charlas
 
 Para todas aquellas personas que son "nuevas" y no conocen como crear un entorno virtual o instalar Python, es recomendable usar los dos enlaces de antes.
